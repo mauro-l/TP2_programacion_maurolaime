@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Gohan",
+        "puntaje": 90,
+        "fecha": "04-07-2025"
+    },
+    {
+        "nombre": "asdasd",
+        "puntaje": 15,
+        "fecha": "11-07-2025"
+    },
+    {
+        "nombre": "asdf",
+        "puntaje": -15,
+        "fecha": "11-07-2025"
+    },
+    {
+        "nombre": "adsf",
+        "puntaje": -5,
+        "fecha": "11-07-2025"
+    },
+    {
+        "nombre": "asdf",
+        "puntaje": -15,
+        "fecha": "11-07-2025"
+    },
+    {
+        "nombre": "asdas",
+        "puntaje": -15,
+        "fecha": "11-07-2025"
+    }
+]

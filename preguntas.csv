@@ -1,0 +1,115 @@
+pregunta,opcion1,opcion2,opcion3,opcion4,correcta,porcentaje_aciertos,cantidad_aciertos,cantidad_fallos,cantidad_preguntada
+¿En el manga 'Dragon Ball', cuál es el nombre del padre de Goku?,Bardock,Vegeta,Raditz,Broly,Bardock,0,0,0,0
+¿Qué significa 'CPU' en informática?,Unidad Central de Procesamiento,Unidad de Control de Píxeles,Centro de Poder Unificado,Tarjeta de Proceso Común,Unidad Central de Procesamiento,0,0,0,0
+¿En el universo de Marvel, de qué metal está hecho el esqueleto de Wolverine?,Adamantium,Vibranium,Uru,Acero Valyrio,Adamantium,0,0,0,0
+¿Cuál de estos no es un lenguaje de programación?,HTML,Python,Java,C++,HTML,0,0,0,0
+¿Cuál es el nombre del protagonista principal de la saga 'The Legend of Zelda'?,Link,Zelda,Ganon,Epona,Link,0,0,0,0
+¿En el anime 'Naruto', qué es un 'jutsu'?,Una técnica ninja,Un tipo de comida,Una bestia con cola,Un arma legendaria,Una técnica ninja,0,0,0,0
+¿Qué compañía desarrolló el sistema operativo Windows?,Microsoft,Apple,Google,IBM,Microsoft,0,0,0,0
+¿Cuál es el nombre del superhéroe de DC Comics conocido como el 'Hombre de Acero'?,Superman,Batman,Flash,Linterna Verde,Superman,0,0,0,0
+¿Qué es 'Linux'?,Un núcleo de sistema operativo,Un navegador web,Un antivirus,Un lenguaje de programación,Un núcleo de sistema operativo,0,0,0,0
+¿En 'Pokémon', cuál de estos es un Pokémon inicial de la región de Kanto?,Bulbasaur,Pikachu,Meowth,Eevee,Bulbasaur,0,0,0,0
+¿Qué significan las siglas 'URL' en el contexto de internet?,Localizador Uniforme de Recursos,Registro Universal de Lenguajes,Lector de Unidades Remotas,Red de Usuarios Libres,Localizador Uniforme de Recursos,0,0,0,0
+¿En la saga de videojuegos 'Final Fantasy VII', cuál es el nombre del villano principal?,Sephiroth,Cloud,Aerith,Tifa,Sephiroth,0,0,0,0
+¿Qué es el 'Ping' en redes de computadoras?,Una medida de la latencia entre dos puntos,La velocidad de descarga,La velocidad de subida,Un tipo de virus,Una medida de la latencia entre dos puntos,0,0,0,0
+¿En el manga 'One Piece', qué busca el protagonista Monkey D. Luffy?,El tesoro One Piece,Las 7 Bolas de Dragón,Convertirse en Hokage,Vengar a su familia,El tesoro One Piece,0,0,0,0
+¿Qué componente de hardware es considerado el 'cerebro' de la computadora?,CPU,GPU,RAM,Disco Duro,CPU,0,0,0,0
+¿En el mundo de Dungeons & Dragons, qué significa 'd20'?,Un dado de 20 caras,Un dragón con 20 de vida,Un hechizo de nivel 20,Un tipo de armadura,Un dado de 20 caras,0,0,0,0
+¿Cuál es el nombre real de Spider-Man?,Peter Parker,Bruce Wayne,Clark Kent,Tony Stark,Peter Parker,0,0,0,0
+¿Qué significan las siglas 'RAM' en el hardware de una computadora?,Memoria de Acceso Aleatorio,Memoria de Solo Lectura,Módulo de Aplicación Rápida,Red de Área Metropolitana,Memoria de Acceso Aleatorio,0,0,0,0
+¿En el anime 'Attack on Titan' (Shingeki no Kyojin), cómo se llaman los gigantes humanoides?,Titanes,Jaegers,Ángeles,Espectros,Titanes,0,0,0,0
+¿Qué lenguaje de programación es famoso por su logo de una taza de café?,Java,Python,JavaScript,Ruby,Java,0,0,0,0
+¿Cuál es el nombre del protagonista del videojuego 'The Witcher 3'?,Geralt de Rivia,Jaskier,Vesemir,Ciri,Geralt de Rivia,0,0,0,0
+¿En el universo de DC, cuál es la mayor debilidad de Superman?,Kryptonita,Magia,Luz solar roja,Plomo,Kryptonita,0,0,0,0
+¿Qué es el 'Hokage' en el anime 'Naruto'?,El líder de la Aldea de la Hoja,Un tipo de ramen,Una técnica de invocación,El demonio de nueve colas,El líder de la Aldea de la Hoja,0,0,0,0
+¿Qué compañía de videojuegos creó las consolas PlayStation?,Sony,Nintendo,Microsoft,Sega,Sony,0,0,0,0
+¿Qué es 'git' en el mundo del desarrollo de software?,Un sistema de control de versiones,Un lenguaje de programación,Un editor de texto,Una base de datos,Un sistema de control de versiones,0,0,0,0
+¿Cuál es el nombre de la nave espacial capitaneada por Han Solo en 'Star Wars'?,Halcón Milenario,Destructor Estelar,X-Wing,Estrella de la Muerte,Halcón Milenario,0,0,0,0
+¿En la serie 'Doctor Who', cómo se llama la máquina del tiempo y espacio del Doctor?,TARDIS,DeLorean,Stargate,Enterprise,TARDIS,0,0,0,0
+¿Cuál de estos NO es un tipo de carta en 'Magic: The Gathering'?,Héroe,Tierra,Criatura,Instantáneo,Héroe,0,0,0,0
+¿Quién es el autor de la saga de libros 'El Señor de los Anillos'?,J.R.R. Tolkien,C.S. Lewis,George R.R. Martin,J.K. Rowling,J.R.R. Tolkien,0,0,0,0
+¿En qué videojuego aparece el personaje 'Master Chief'?,Halo,Call of Duty,Gears of War,DOOM,Halo,0,0,0,0
+¿Cuál es el nombre del estudio de animación japonés fundado por Hayao Miyazaki?,Studio Ghibli,Toei Animation,Madhouse,Kyoto Animation,Studio Ghibli,0,0,0,0
+¿Qué significan las siglas 'GPU'?,Unidad de Procesamiento Gráfico,Unidad de Potencia General,Gestor de Programas Universal,Generador de Procesos Únicos,Unidad de Procesamiento Gráfico,0,0,0,0
+¿En el universo de Marvel, cuántas Gemas del Infinito existen?,6,7,5,8,6,0,0,0,0
+¿Qué es un 'meme' en el contexto de internet?,Una idea o comportamiento que se propaga de persona a persona,Un tipo de virus informático,Un formato de imagen comprimida,Un protocolo de red,Una idea o comportamiento que se propaga de persona a persona,0,0,0,0
+¿Cuál es el nombre del erizo azul protagonista de los videojuegos de Sega?,Sonic,Tails,Knuckles,Shadow,Sonic,0,0,0,0
+¿En 'Neon Genesis Evangelion', cómo se llaman los robots gigantes que pilotan los protagonistas?,EVA,Gundam,Jaeger,Zord,EVA,0,0,0,0
+¿Qué es un 'SSD' en comparación con un 'HDD'?,Una unidad de estado sólido más rápida,Una unidad de súper disco más grande,Un disco duro secundario más lento,Un sistema de seguridad de datos,Una unidad de estado sólido más rápida,0,0,0,0
+¿En 'Street Fighter', cuál es el movimiento especial característico de Ryu y Ken?,Hadoken,Shoryuken,Tatsumaki Senpukyaku,Yoga Flame,Hadoken,0,0,0,0
+¿Cuál es el nombre del protagonista de la serie 'Mr. Robot'?,Elliot Alderson,Tyrell Wellick,Christian Slater,Rami Malek,Elliot Alderson,0,0,0,0
+¿Qué es el 'lenguaje binario'?,Un sistema numérico de dos dígitos (0 y 1),Un lenguaje hablado por robots,Un lenguaje de programación visual,Un protocolo de encriptación,Un sistema numérico de dos dígitos (0 y 1),0,0,0,0
+¿En el universo de 'Star Trek', cuál es la directiva principal de la Flota Estelar?,La Primera Directiva (de no interferencia),La Directiva Omega,El Protocolo Cole,La Orden 66,La Primera Directiva (de no interferencia),0,0,0,0
+¿Cuál es el objetivo principal en el juego 'Minecraft' en modo supervivencia?,Sobrevivir y derrotar al Dragón del End,Construir la casa más grande,Acumular la mayor cantidad de diamantes,Completar todas las recetas de crafteo,Sobrevivir y derrotar al Dragón del End,0,0,0,0
+¿En el cómic 'Watchmen', qué personaje dice la frase 'Who watches the watchmen?'?,Rorschach,Dr. Manhattan,El Comediante,Ozymandias,Rorschach,0,0,0,0
+¿Qué significa la sigla 'RPG' en el mundo de los videojuegos?,Role-Playing Game (Juego de Rol),Real-time Pointing Game,Racing Performance Game,Rapid Paced Gameplay,Role-Playing Game (Juego de Rol),0,0,0,0
+¿En 'Sailor Moon', cuál es el nombre real de la protagonista?,Usagi Tsukino,Ami Mizuno,Rei Hino,Makoto Kino,Usagi Tsukino,0,0,0,0
+¿Cuál de estos es un famoso sistema operativo basado en el núcleo Linux?,Ubuntu,Windows 10,macOS,iOS,Ubuntu,0,0,0,0
+¿En la película 'Blade Runner', a qué se dedican los 'blade runners'?,A 'retirar' androides replicantes,A viajar en el tiempo,A colonizar Marte,A combatir una invasión alienígena,A 'retirar' androides replicantes,0,0,0,0
+¿Qué es 'Ethernet'?,Una tecnología para redes de área local (LAN),Un tipo de memoria de computadora,Un cable de alimentación,Un sistema operativo de red,Una tecnología para redes de área local (LAN),0,0,0,0
+¿En 'Mortal Kombat', cuál es la famosa frase de Scorpion?,Get over here!,Finish Him!,Toasty!,Fatality,Get over here!,0,0,0,0
+¿Qué es 'Darth Vader' en la saga de Star Wars?,Un Lord Sith,Un Maestro Jedi,Un cazarrecompensas,Un piloto rebelde,Un Lord Sith,0,0,0,0
+¿Cuál es el nombre del mayordomo y figura paterna de Batman?,Alfred Pennyworth,James Gordon,Lucius Fox,Robin,Alfred Pennyworth,0,0,0,0
+¿En el juego 'Among Us', cuál es el objetivo de los tripulantes?,Completar tareas y descubrir al impostor,Sabotear la nave,Eliminar a todos los demás,Reparar el motor lo más rápido posible,Completar tareas y descubrir al impostor,0,0,0,0
+¿Qué es un 'Firewall' o 'Cortafuegos' en seguridad informática?,Una barrera que controla el tráfico de red,Un tipo de antivirus,Un programa para eliminar spyware,Un sistema de enfriamiento para servidores,Una barrera que controla el tráfico de red,0,0,0,0
+¿En la serie 'The Big Bang Theory', cuál es el trabajo principal de Sheldon Cooper?,Físico Teórico,Ingeniero Aeroespacial,Astrofísico Experimental,Microbiólogo,Físico Teórico,0,0,0,0
+¿Qué es 'La Comarca' (The Shire) en el universo de 'El Señor de los Anillos'?,La región donde viven los Hobbits,La capital de Gondor,La fortaleza de Sauron,El bosque de los Elfos,La región donde viven los Hobbits,0,0,0,0
+¿En el videojuego 'Portal', cuál es el nombre de la inteligencia artificial que guía y antagoniza al jugador?,GLaDOS,SHODAN,Cortana,Siri,GLaDOS,0,0,0,0
+¿Cuál de estos NO es un lenguaje de marcado, sino de estilos?,CSS,HTML,XML,SVG,CSS,0,0,0,0
+¿En el universo de 'The Witcher', cuál es el nombre del caballo de Geralt?,Sardinilla,Pegaso,Bucéfalo,Sombragrís,Sardinilla,0,0,0,0
+¿Qué es el 'Tesseract' en el Universo Cinematográfico de Marvel?,Un contenedor para la Gema del Espacio,El martillo de Thor,El corazón de Iron Man,Un arma de Hydra,Un contenedor para la Gema del Espacio,0,0,0,0
+¿En el anime 'Death Note', qué necesita el protagonista para matar a alguien?,El nombre y el rostro de la persona,Solo el nombre,Una muestra de ADN,La fecha de nacimiento,El nombre y el rostro de la persona,0,0,0,0
+¿Qué es un 'fork' en el contexto de plataformas como GitHub?,Crear una copia personal de un repositorio ajeno,Eliminar un proyecto,Fusionar dos ramas de código,Reportar un error,Crear una copia personal de un repositorio ajeno,0,0,0,0
+¿Qué personaje de 'Star Wars' es un cazarrecompensas mandaloriano?,Boba Fett,Han Solo,Chewbacca,Lando Calrissian,Boba Fett,0,0,0,0
+¿Cuál es el propósito del 'Sombrero Seleccionador' en Hogwarts?,Asignar a los estudiantes a una de las cuatro casas,Elegir al campeón de Quidditch,Decidir quién es el prefecto,Enseñar hechizos a los alumnos,Asignar a los estudiantes a una de las cuatro casas,0,0,0,0
+¿Qué es 'doxxing' en la cultura de internet?,Publicar información privada de alguien sin su consentimiento,Enviar spam por correo electrónico,Crear un perfil falso,Hackear una cuenta,Publicar información privada de alguien sin su consentimiento,0,0,0,0
+¿En la saga de videojuegos 'Mass Effect', cuál es el nombre del protagonista principal?,Comandante Shepard,Capitán Anderson,Garrus Vakarian,Thane Krios,Comandante Shepard,0,0,0,0
+¿Quién es el autor del webcomic 'xkcd'?,Randall Munroe,Matthew Inman,Kate Beaton,Allie Brosh,Randall Munroe,0,0,0,0
+¿Qué es 'ASCII'?,Un estándar de codificación de caracteres para la comunicación electrónica,Un tipo de encriptación,Un protocolo de transferencia de archivos,Una marca de teclados,Un estándar de codificación de caracteres para la comunicación electrónica,0,0,0,0
+¿Qué personaje de DC Comics es conocido como el 'Velocista Escarlata'?,Flash,Superman,Batman,Aquaman,Flash,0,0,0,0
+¿En el juego de mesa 'Catan', qué recurso es esencial para construir ciudades?,Mineral (mena),Madera,Ladrillo,Ovejas,Mineral (mena),0,0,0,0
+¿Cuál es el nombre del protagonista de la serie de anime 'Cowboy Bebop'?,Spike Spiegel,Jet Black,Vicious,Edward Wong,Spike Spiegel,0,0,0,0
+¿Qué es un 'bug' en programación?,Un error o defecto en el código,Una característica oculta,Un comentario del programador,Una variable global,Un error o defecto en el código,0,0,0,0
+¿En la mitología de H.P. Lovecraft, quién es el gran sacerdote de los Primigenios?,Cthulhu,Nyarlathotep,Azathoth,Yog-Sothoth,Cthulhu,0,0,0,0
+¿Qué es 'Steam'?,Una plataforma de distribución digital de videojuegos para PC,Una consola de videojuegos,Un servicio de streaming de películas,Una red social para gamers,Una plataforma de distribución digital de videojuegos para PC,0,0,0,0
+¿Cuál es el nombre del superhéroe ciego de Marvel que vive en Hell's Kitchen?,Daredevil,Iron Fist,Luke Cage,Jessica Jones,Daredevil,0,0,0,0
+¿En la serie 'Futurama', cuál es el nombre del robot alcohólico y cleptómano?,Bender,Calculon,Flexo,Robot Devil,Bender,0,0,0,0
+¿Qué es una 'API' (Interfaz de Programación de Aplicaciones)?,Un conjunto de reglas para que diferentes programas se comuniquen entre sí,Una aplicación de inteligencia artificial,Un protocolo de internet,Un analizador de paquetes de información,Un conjunto de reglas para que diferentes programas se comuniquen entre sí,0,0,0,0
+¿En 'Calabozos y Dragones', qué característica representa la agilidad y los reflejos de un personaje?,Destreza,Fuerza,Constitución,Inteligencia,Destreza,0,0,0,0
+¿Qué videojuego popularizó el género 'Battle Royale' a nivel masivo?,PUBG: Battlegrounds,Fortnite,H1Z1,Apex Legends,PUBG: Battlegrounds,0,0,0,0
+¿Cuál es el nombre del archienemigo de los 'X-Men'?,Magneto,Dr. Doom,Red Skull,Thanos,Magneto,0,0,0,0
+¿En el anime 'Fullmetal Alchemist', cuál es la ley principal de la alquimia?,La ley del Intercambio Equivalente,La ley de la Transmutación Humana,La ley de la Piedra Filosofal,La ley de la Conservación de la Materia,La ley del Intercambio Equivalente,0,0,0,0
+¿Qué es 'HTTPS'?,Un protocolo de transferencia de hipertexto seguro (encriptado),Un lenguaje de programación,Un tipo de servidor web,Un formato de imagen,Un protocolo de transferencia de hipertexto seguro (encriptado),0,0,0,0
+¿En 'World of Warcraft', cuál de estas NO es una de las facciones principales?,El Dominio Aldmeri,La Horda,La Alianza,Los Renegados,El Dominio Aldmeri,0,0,0,0
+¿Qué personaje de videojuegos es un arqueólogo británico?,Lara Croft,Nathan Drake,Indiana Jones,Benjamin Gates,Lara Croft,0,0,0,0
+¿Cuál es el nombre del autor de la saga de cómics 'The Sandman'?,Neil Gaiman,Alan Moore,Frank Miller,Grant Morrison,Neil Gaiman,0,0,0,0
+¿En la serie 'Rick y Morty', cuál es la frase característica de Rick?,Wubba Lubba Dub Dub!,¡Y así es como se obtiene la noticia!,¡Oh cielos!,¡Soy el hombre más inteligente del universo!,Wubba Lubba Dub Dub!,0,0,0,0
+¿Qué es un 'easter egg' (huevo de pascua) en un videojuego o software?,Un mensaje o función oculta,Un error que cierra el programa,Un nivel de bonificación,Un personaje secreto,Un mensaje o función oculta,0,0,0,0
+¿Qué personaje de 'League of Legends' es conocido como 'El Demonio de la Velocidad'?,Teemo,Yasuo,Jinx,Zed,Teemo,0,0,0,0
+¿Qué es el 'código máquina'?,El lenguaje de nivel más bajo que una computadora puede ejecutar directamente,Un código de barras,Un algoritmo de encriptación,El código fuente de un programa,El lenguaje de nivel más bajo que una computadora puede ejecutar directamente,0,0,0,0
+¿Cuál es el nombre del mayordomo de la familia Joestar en las primeras partes de 'Jojo's Bizarre Adventure'?,Robert E. O. Speedwagon,Will A. Zeppeli,Straizo,Dire,Robert E. O. Speedwagon,0,0,0,0
+¿Qué es un 'ISP'?,Proveedor de Servicios de Internet,Protocolo de Seguridad Interno,Interfaz de Software de Programa,Impresora de Sistema Paralelo,Proveedor de Servicios de Internet,0,0,0,0
+¿En el videojuego 'Red Dead Redemption 2', quién es el protagonista principal?,Arthur Morgan,John Marston,Dutch van der Linde,Micah Bell,Arthur Morgan,0,0,0,0
+¿Qué personaje de Marvel es el rey de la nación africana de Wakanda?,T'Challa / Black Panther,Sam Wilson / Capitán América,Bucky Barnes / Soldado de Invierno,Namor / Sub-Mariner,T'Challa / Black Panther,0,0,0,0
+¿Qué es 'open source' o 'código abierto'?,Software cuyo código fuente está disponible para que cualquiera lo vea y modifique,Software gratuito,Software de prueba (beta),Software sin licencia,Software cuyo código fuente está disponible para que cualquiera lo vea y modifique,0,0,0,0
+¿En el anime 'My Hero Academia', cómo se llaman los superpoderes que tiene la mayoría de la población?,Quirks (Dones),Nen,Stands,Ki,Quirks (Dones),0,0,0,0
+¿Cuál de estos es un sistema de gestión de bases de datos relacional?,MySQL,MongoDB,Redis,Cassandra,MySQL,0,0,0,0
+¿En el universo de 'Warhammer 40000', quién es el Emperador de la Humanidad?,Un ser psíquico milenario en el Trono Dorado,Un general elegido democráticamente,El líder del Culto de las Máquinas,Un dios del Caos,Un ser psíquico milenario en el Trono Dorado,0,0,0,0
+¿Qué es una 'cookie' en el contexto de la navegación web?,Un pequeño archivo de datos que un sitio web almacena en tu navegador,Un virus publicitario,Un script de seguimiento,Un certificado de seguridad,Un pequeño archivo de datos que un sitio web almacena en tu navegador,0,0,0,0
+¿Cuál es el nombre del protagonista del videojuego 'God of War'?,Kratos,Zeus,Ares,Hades,Kratos,0,0,0,0
+¿Quién es el creador de la serie de videojuegos 'Metal Gear Solid'?,Hideo Kojima,Shigeru Miyamoto,Yuji Naka,Shinji Mikami,Hideo Kojima,0,0,0,0
+¿Qué es 'La Fuerza' en 'Star Wars'?,Un campo de energía metafísico que une a todos los seres vivos,Una habilidad para levantar objetos pesados,Una organización de espías,El poder del lado oscuro,Un campo de energía metafísico que une a todos los seres vivos,0,0,0,0
+¿En el anime 'One-Punch Man', cuál es el 'poder' del protagonista Saitama?,Puede derrotar a cualquier enemigo con un solo golpe,Puede volar a la velocidad de la luz,Puede regenerarse de cualquier herida,Puede controlar el tiempo,Puede derrotar a cualquier enemigo con un solo golpe,0,0,0,0
+¿Qué es un 'algoritmo'?,Un conjunto de instrucciones paso a paso para resolver un problema,Un lenguaje de programación,Un componente de hardware,Una red de computadoras,Un conjunto de instrucciones paso a paso para resolver un problema,0,0,0,0
+¿En 'Los Vengadores', qué personaje es un super espía sin superpoderes?,Black Widow (Natasha Romanoff),Scarlet Witch (Wanda Maximoff),Captain Marvel (Carol Danvers),The Wasp (Hope van Dyne),Black Widow (Natasha Romanoff),0,0,0,0
+¿Cuál de estos es un popular motor de videojuegos?,Unreal Engine,Adobe Photoshop,Blender,Visual Studio,Unreal Engine,0,0,0,0
+¿En el videojuego 'Undertale', cómo puedes terminar el juego sin matar a ningún monstruo?,Perdonando (sparing) a todos los enemigos,Huyendo de todas las batallas,Usando un solo tipo de ataque,Encontrando un final secreto,Perdonando (sparing) a todos los enemigos,0,0,0,0
+¿Qué es el 'Ciberespacio', un término popularizado por el escritor William Gibson?,Una red de computadoras interconectadas en la que se experimenta una realidad virtual,El espacio exterior,El interior de una computadora,Un universo paralelo,Una red de computadoras interconectadas en la que se experimenta una realidad virtual,0,0,0,0
+¿Cuál es el nombre del archienemigo de Batman, conocido como el 'Príncipe Payaso del Crimen'?,Joker,Pingüino,Acertijo,Dos Caras,Joker,0,0,0,0
+¿Qué es la 'Ley de Moore'?,Una observación de que el número de transistores en un chip se duplica aproximadamente cada dos años,Una ley de la termodinámica,Un principio de la criptografía,Una teoría sobre la inteligencia artificial,Una observación de que el número de transistores en un chip se duplica aproximadamente cada dos años,0,0,0,0
+¿En el juego de cartas 'Hearthstone', cuántos puntos de vida tiene un héroe al empezar la partida?,30,20,50,100,30,0,0,0,0
+¿Qué personaje de 'Guardianes de la Galaxia' es un árbol humanoide que solo dice una frase?,Groot,Rocket Raccoon,Drax el Destructor,Star-Lord,Groot,0,0,0,0
+¿Qué es 'CSS Grid'?,Un sistema de maquetación para diseñar páginas web en dos dimensiones,Una librería de JavaScript,Un framework para aplicaciones móviles,Un tipo de base de datos,Un sistema de maquetación para diseñar páginas web en dos dimensiones,0,0,0,0
+¿En la serie 'Black Mirror', de qué tratan principalmente sus episodios?,De los peligros y consecuencias imprevistas de las nuevas tecnologías,De conspiraciones gubernamentales,De invasiones alienígenas,De dramas históricos,De los peligros y consecuencias imprevistas de las nuevas tecnologías,0,0,0,0
+¿Qué es 'Kame Hame Ha'?,Una técnica de energía en 'Dragon Ball',El nombre del planeta de los Saiyajin,Un platillo de comida japonesa,El maestro de Goku,Una técnica de energía en 'Dragon Ball',0,0,0,0
+¿Cuál es el nombre del protagonista del videojuego 'Final Fantasy VII'?,Cloud Strife,Zack Fair,Tidus,Squall Leonhart,Cloud Strife,0,0,0,0
