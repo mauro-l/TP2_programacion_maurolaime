@@ -1,7 +1,17 @@
 [
-  {
-    "nombre": "Gohan",
-    "puntaje": 90,
-    "fecha": "04-07-2025"
-  }
+    {
+        "nombre": "Gohan",
+        "puntaje": 90,
+        "fecha": "04-07-2025"
+    },
+    {
+        "nombre": "f",
+        "puntaje": 25,
+        "fecha": "12-07-2025"
+    },
+    {
+        "nombre": "Mauro",
+        "puntaje": 115,
+        "fecha": "12-07-2025"
+    }
 ]

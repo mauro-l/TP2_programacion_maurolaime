@@ -57,7 +57,7 @@ def cargar_recursos():
         recursos["comience_juego_sound"] = None
 
     try:
-        gif = Image.open("fondo_gif.gif")
+        gif = Image.open("fondo_game.gif")
         gif_frames = []
         for frame in range(gif.n_frames):
             gif.seek(frame)
