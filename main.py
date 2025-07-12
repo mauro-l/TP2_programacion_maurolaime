@@ -153,9 +153,11 @@ def principal():
         "musica_sonando": True,
         "volumen_musica": VOLUMEN_INICIAL,
         "musica_actual": None,
-        "preguntas": cargar_preguntas(),
+        "preguntas": [],  # Inicializar vacío
     }
     datos_juego.update(cargar_recursos())
+    # Cargar preguntas después de que datos_juego esté completamente definido
+    datos_juego["preguntas"] = cargar_preguntas(datos_juego["dificultad_seleccionada"])
     datos_juego["musica_actual"] = datos_juego["musica_principal"]
     if datos_juego["musica_actual"]:
         datos_juego["musica_actual"].play(-1)

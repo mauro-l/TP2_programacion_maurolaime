@@ -14,7 +14,7 @@ from datetime import datetime
 from constantes import *
 
 
-def cargar_preguntas():
+def cargar_preguntas(dificultad="MEDIO"):
     """Carga las preguntas desde el archivo preguntas.csv.
 
     Lee el archivo CSV que contiene las preguntas del juego y sus opciones, y devuelve una lista
@@ -25,7 +25,10 @@ def cargar_preguntas():
     """
     with open("preguntas.csv", "r", encoding="utf-8") as archivo:
         lector = csv.DictReader(archivo)
-        return list(lector)
+        preguntas = list(lector)
+
+        limite = DIFICULTADES[dificultad]["total_preguntas"]
+        return random.sample(preguntas, min(limite, len(preguntas)))
 
 
 def guardar_resultado(nombre, puntaje):
@@ -328,7 +331,9 @@ def guardar_y_reiniciar(datos_juego):
         guardar_resultado(datos_juego["nombre_jugador"], datos_juego["puntaje"])
         datos_juego["estado"] = MENU
         datos_juego["preguntas"].clear()
-        datos_juego["preguntas"].extend(cargar_preguntas())
+        datos_juego["preguntas"].extend(
+            cargar_preguntas(datos_juego["dificultad_seleccionada"])
+        )
         datos_juego["puntaje"] = PUNTAJE_INICIAL
         datos_juego["vidas"] = DIFICULTADES[datos_juego["dificultad_seleccionada"]][
             "vidas"

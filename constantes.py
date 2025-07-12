@@ -45,17 +45,20 @@ DIFICULTADES = {
         "puntos_errores": -3,
         "vidas": 5,
         "tiempo_pregunta": 45,
+        "total_preguntas": 10,
     },
     "MEDIO": {
         "puntos_aciertos": 10,
         "puntos_errores": -5,
         "vidas": 3,
         "tiempo_pregunta": 30,
+        "total_preguntas": 15,
     },
     "DIFICIL": {
         "puntos_aciertos": 20,
         "puntos_errores": -10,
         "vidas": 2,
         "tiempo_pregunta": 20,
+        "total_preguntas": 20,
     },
 }

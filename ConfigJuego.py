@@ -66,6 +66,14 @@ def mostrar_config_juego(pantalla, eventos, datos_juego, fuente, fuente_game_ove
         ),
         (50, 210),
     )
+    pantalla.blit(
+        fuente.render(
+            f"Total preguntas: {DIFICULTADES[datos_juego['dificultad_seleccionada']]['total_preguntas']}",
+            True,
+            NEGRO,
+        ),
+        (50, 250),
+    )
     dibujar_boton(
         pantalla,
         fuente,
